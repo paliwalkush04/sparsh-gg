@@ -1,0 +1,88 @@
+body {
+    background-color: #872341;
+    margin: 0%;
+}
+
+hr {
+    margin: 0%;
+}
+
+h1 {
+    font-family: "Roboto Mono", serif;
+    margin: 0;
+    position: relative;
+    top: 15px
+}
+
+#header {
+    text-align: center;
+    color: white;
+    background-color: #3B6790;
+    height: 70px;    
+}
+
+.input-box {
+    background-color: #a6244b;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+span {
+    color: white;
+    font-size: larger;
+}
+
+#password {
+    position: relative;
+}
+
+#second-name {
+    margin-left: 20px;
+}
+
+#phone-span {
+    padding-left: 55px;
+}
+
+#input-email {
+    position: relative;
+    left: 35px;
+}
+
+#input-second {
+    position: relative;
+    left: 8px;
+}
+
+.margin-div {
+    margin-top: 20px;
+}
+
+
+.gendre {
+    margin-left: 80px;
+}
+
+
+#hobbies-list {
+    display: inline;
+    margin-left: 20px;
+
+}
+
+.hlist-item {
+    padding: 10px;
+}
+
+#contact-option {
+    display: inline;
+    margin-left: 30px;
+}
+
+#phone {
+    margin-left: 50px;
+}
+
+#check:checked {
+    background-color: red;
+}
